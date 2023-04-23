@@ -151,8 +151,6 @@ tzlocal==4.2
 urllib3==1.26.13
 vaderSentiment==3.3.2
 validators==0.20.0
-vboxapi==1.0
-virtualbox==2.1.1
 wasabi==1.1.1
 watchdog==2.2.0
 wcwidth==0.2.6
